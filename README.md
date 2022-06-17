@@ -17,7 +17,6 @@ To develop this software, I used both Visual Studio Code and Notepad. The langua
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools](https://www.w3schools.com/asp/asp_ref_vbscript_functions.asp)
 * [Stack Overflow](https://stackoverflow.com/)
 
